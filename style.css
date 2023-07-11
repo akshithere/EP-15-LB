@@ -1,0 +1,55 @@
+/* Borders in CSS */
+#firstheading{
+    
+/* border-style: solid;
+border-width: 3px;
+border-color: brown */
+background-color: aqua;
+ border: solid #000000 3px;
+
+ vertical-align: middle;
+/* border-top: solid crimson 5px;
+border-bottom: solid fuchsia 4px;
+border-left: solid darkgoldenrod 4px ;
+border-right: solid greenyellow 5px; */
+border-radius: 6px;
+text-align: center;
+
+
+
+}
+#firstpara{
+background-color: red;
+border: solid #000000 3px;
+border-radius: 6px;
+}
+
+#secondpara{
+
+/* background-color: yellow; */
+border: solid #000000 3px;
+border-radius: 6px;
+
+
+}
+
+#thirdpara{
+ 
+background-color: pink;
+
+width: 350px;
+height: 200px;;
+box-sizing: border-box;
+border: solid black 2px;
+padding: 10px 20px 30px 40px;  
+margin: 50px;
+
+}
+
+#fourthpara{
+
+    background-color: blue;
+    border: solid #000000 3px;
+    border-radius: 6px;
+ 
+}
